@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @fitriaaishwara
 - 👀 I'm interested in web programming
-- 🌱 Currently I am learning javascript and go lang
+- 🌱 Currently I am learning html, php, css, bootstrap, javascript, go lang and laravel framework
 - 💞️ I would like to collaborate in website development in the community
 - 📫 How to contact me...
 
